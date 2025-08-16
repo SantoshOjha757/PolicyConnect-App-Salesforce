@@ -1,0 +1,31 @@
+<template>
+    <lightning-card title="Find Brouchers" class="slds-var-p-around_medium">
+        <div class="slds-grid">
+            <lightning-combobox
+                label="Select Category"
+                options={options}
+                onchange={handleCategoriesChange}
+                values={values}
+                class="slds-var-p-around_large slds-col slds-size_5-of-12"
+                >
+            </lightning-combobox>
+
+            <lightning-combobox
+                label="Select Plan"
+                options={optionsPlanNames}
+                onchange={handlePlanChange}
+                values={valuesPlanNames}
+                class="slds-var-p-around_large slds-col slds-size_5-of-12"
+                >
+            </lightning-combobox>
+
+            <lightning-button
+                label="View"
+                variant="brand"
+                onclick={handleViewButtonClick}
+                class="slds-var-p-around_large slds-col slds-size_1-of-12 slds-align-bottom"
+                >
+            </lightning-button>
+        </div>
+    </lightning-card>
+</template>

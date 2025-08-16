@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005gL000004tq0UQAQ",
+      "createdByName": "Ajay Pratap Singh",
+      "createdDate": "2025-07-24T05:21:35.000Z",
+      "fileName": "triggers/Installment_number.trigger",
+      "fullName": "Installment_number",
+      "id": "01qgL000001WiTaQAK",
+      "lastModifiedById": "005gL000004tq0UQAQ",
+      "lastModifiedByName": "Ajay Pratap Singh",
+      "lastModifiedDate": "2025-07-24T05:21:35.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "005gL000004w87lQAA",
+      "createdByName": "Santosh Ojha",
+      "createdDate": "2025-07-23T11:33:53.000Z",
+      "fileName": "triggers/OrderPolicyPlansTrigger.trigger",
+      "fullName": "OrderPolicyPlansTrigger",
+      "id": "01qgL000001W7fJQAS",
+      "lastModifiedById": "005gL000004w87lQAA",
+      "lastModifiedByName": "Santosh Ojha",
+      "lastModifiedDate": "2025-07-23T12:23:14.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "005gL000004tq0UQAQ",
+      "createdByName": "Ajay Pratap Singh",
+      "createdDate": "2025-08-10T21:27:50.000Z",
+      "fileName": "triggers/AgentTrigger.trigger",
+      "fullName": "AgentTrigger",
+      "id": "01qgL000001kk0rQAA",
+      "lastModifiedById": "005gL000004tq0UQAQ",
+      "lastModifiedByName": "Ajay Pratap Singh",
+      "lastModifiedDate": "2025-08-13T06:56:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "005gL000004w87lQAA",
+      "createdByName": "Santosh Ojha",
+      "createdDate": "2025-07-26T15:57:27.000Z",
+      "fileName": "triggers/PremiumPaymentTrigger.trigger",
+      "fullName": "PremiumPaymentTrigger",
+      "id": "01qgL000001YjOjQAK",
+      "lastModifiedById": "005gL000004tq0UQAQ",
+      "lastModifiedByName": "Ajay Pratap Singh",
+      "lastModifiedDate": "2025-08-08T10:16:48.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "005gL000004tq0UQAQ",
+      "createdByName": "Ajay Pratap Singh",
+      "createdDate": "2025-07-27T09:16:22.000Z",
+      "fileName": "triggers/Invoice_Creation.trigger",
+      "fullName": "Invoice_Creation",
+      "id": "01qgL000001ZGcPQAW",
+      "lastModifiedById": "005gL000004tq0UQAQ",
+      "lastModifiedByName": "Ajay Pratap Singh",
+      "lastModifiedDate": "2025-07-27T09:16:22.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}
